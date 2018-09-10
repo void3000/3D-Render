@@ -1,2 +1,2 @@
 # 3D-Render
-For educational purposes
+For educational purpose
